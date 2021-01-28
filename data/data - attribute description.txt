@@ -1,0 +1,75 @@
+Attribute 		Type		Description
+--------------------------------------------------------------------------------
+Battery capacity	ratio		(mAh)
+Screen Size		ratio		(inches)
+Touchscreen		nominal		encoded to binary
+Internal storage	ratio		(GB)
+Headphones		nominal		encoded to binary
+Face unlock		nominal		encoded to binary
+Fingerprint sensor	nominal		encoded to binary
+Wireless charging	nominal		encoded to binary
+NFC			nominal		encoded to binary
+Number of SIMs		ratio	
+SIM Type		nominal		encoded to binary
+4G/ LTE			nominal		encoded to binary
+5G			nominal		encoded to binary
+Expandable storage	ratio		(GB)
+Price			ratio		(Indian rupee)
+3G			nominal		encoded to binary
+EDGE			nominal		encoded to binary
+GPRS			nominal		encoded to binary
+Wi-Fi			nominal		encoded to binary
+VoLTE			nominal		encoded to binary
+Usb Type		nominal		encoded
+Bluetooth		nominal		encoded to binary
+OS			nominal		encoded 
+cpuCores		nominal 	encoded 
+Chipset			nominal		encoded 
+CPU			nominal		encoded
+GPS			nominal		encoded to binary
+RAM			ratio		(GB)
+FM Radio		nominal		encoded to binary
+Rear Camera		ratio		(MP)
+Flash			nominal		encoded to binary
+Front Camera		ratio		(MP)
+PPI			ratio	
+Width			ratio		(mm)
+Height			ratio		(mm)
+Weight			ratio		(g)
+Fast Charging		nominal		encoded to binary
+Removable Battery	nominal		encoded to binary
+Card Slot		nominal		encoded to binary
+Launched_Month		nominal		encoded
+Launched_Year		nominal		encoded
+Number of Rear Cameras	ratio	
+Resolution_x		ratio		pixel
+Resolution_y		ratio		pixel
+Light Sensor		nominal		encoded to binary
+Compass Sensor		nominal		encoded to binary
+Proximity Sensor	nominal		encoded to binary
+Magnetic Sensor		nominal		encoded to binary
+Gravity Sensor		nominal		encoded to binary
+Heathtracking Sensor	nominal		encoded to binary
+Gyroscope Sensor	nominal		encoded to binary
+Accelerometar Sensor	nominal		encoded to binary
+Vibration Sensor	nominal		encoded to binary
+Laser Sensor		nominal		encoded to binary
+Manufacturer		nominal		encoded to binary
+Brand__Apple		nominal		encoded to binary
+Brand__Coolpad		nominal		encoded to binary
+Brand__Google		nominal		encoded to binary
+Brand__Huawei		nominal		encoded to binary
+Brand__Infinix		nominal		encoded to binary
+Brand__LG		nominal		encoded to binary
+Brand__Lenovo		nominal		encoded to binary
+Brand__Micromax		nominal		encoded to binary
+Brand__Motorola		nominal		encoded to binary
+Brand__Nokia		nominal		encoded to binary
+Brand__OnePlus		nominal		encoded to binary
+Brand__Oppo		nominal		encoded to binary
+Brand__Realme		nominal		encoded to binary
+Brand__Samsung		nominal		encoded to binary
+Brand__Tecno		nominal		encoded to binary
+Brand__Vivo		nominal		encoded to binary
+Brand__Xiaomi		nominal		encoded to binary
+logPrice		interval	
